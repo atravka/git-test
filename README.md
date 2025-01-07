@@ -4,9 +4,9 @@
 
 
 - для глобальной настройки git используем git config --global
-  -- посмотреть настройки git config --global --list
-  -- установить имя пользователя git --global user.name "имя пользователяэ"
-  -- установить email git --global user.email email@email.domain
+  - посмотреть настройки git config --global --list
+  - установить имя пользователя git --global user.name "имя пользователяэ"
+  - установить email git --global user.email email@email.domain
 - чтобы создать репозиторий используем git init
 - чтобы посмотреть статус текущего репозитория используем git status
 - чтобы добавить файлы в репозиторий используем git add <имя файла>
